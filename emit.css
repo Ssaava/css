@@ -1,0 +1,133 @@
+body {
+    background-color: skyblue;
+}
+.div1 {
+    position: absolute;
+    top: 0%;
+    right: 75%;
+    bottom: 65%;
+    left: 0%;
+    background-color: gold;
+}
+.a1 {
+    color: blue;
+}
+.div2 {
+    background-color: black;
+    position: absolute;
+    left: 50%;
+    right: 25%;
+    top: 0%;
+    bottom: 65%;
+}
+.a2 {
+    color: gold;
+}
+.a2, .a1 {
+    position: absolute;
+    left: 30%;
+    right: 0%;
+    bottom: 0%;
+    top: 45%;
+}
+.div3 {
+    position: absolute;
+    left: 25%;
+    right: 50%;
+    bottom: 30%;
+    top: 35%;
+    background: green;
+}
+.a3 {
+    color: yellow;
+    position: absolute;
+    left: 20%;
+    right: 0%;
+    bottom: 0%;
+    top: 50%;
+}
+.div4 {
+    background-color: blue;
+    position: absolute;
+    left: 0%;
+    right: 75%;
+    top: 70%;
+    bottom: 0%;
+}
+.a4 {
+    color: gold;
+}
+.div5{
+    background-color: red;
+    position: absolute;
+    left: 50%;
+    right: 25%;
+    top: 70%;
+    bottom: 0%;
+}
+.a5, .a4 {
+    color: gold;
+    position: absolute;
+    left: 35%;
+    right: 0%;
+    bottom: 0%;
+    top: 50%;
+}
+table, th, td {
+    border: 1px solid;
+
+}
+table{
+    border-collapse: collapse;
+    height: 200px;
+}
+th, td {
+    padding: 10px;
+}
+.diveducation {
+    position: absolute;
+    top: 25%;
+    background-color: gold;
+}
+.bodyeduc {
+    background-image: url("education.jpg");
+}
+.divform {
+    border-style: solid;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 10%;
+    right: 75%;
+    top: 10%;
+    text-align: center;
+}
+.bodyeduc, .miles {
+    padding: 10px;
+    position: absolute;
+    left: 300px;
+    right: 20px;
+    bottom: 20px;
+    top: 20px;
+}
+.movies {
+    position: absolute;
+    left: 300px;
+    top: 280px;
+}
+.football {
+    position: absolute;
+    top: 40px;
+    bottom: 200px;
+    left: 300px;
+}
+.div6 {
+    position: absolute;
+    left: 220px;
+    right: 40%;
+    bottom: 62%;
+    top: 100px;
+}
+.imga {
+    border-radius: 50%;
+}
