@@ -102,7 +102,7 @@ th, td {
     top: 10%;
     text-align: center;
 }
-.bodyeduc, .miles {
+.bodyeduc {
     padding: 10px;
     position: absolute;
     left: 300px;
